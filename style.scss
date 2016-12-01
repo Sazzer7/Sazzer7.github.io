@@ -283,8 +283,10 @@ footer {
   text-align: center;
 }
 
-table, th, td {
-   border: 1px solid black;
+
+th, td {
+    padding: 15px;
+    text-align: left;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
