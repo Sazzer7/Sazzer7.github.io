@@ -109,6 +109,13 @@ strong, b {
 img {
   max-width: 100%;
 }
+table {
+	width:100%;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -283,9 +290,7 @@ footer {
   text-align: center;
 }
 
-table, th, td {
-   border: 1px solid black;
-}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
