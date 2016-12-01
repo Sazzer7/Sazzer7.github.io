@@ -12,4 +12,4 @@ I go swimming on tuesdays and I have parkour lessons on Wednesdays.
 
 ### Contact me
 
-[samuel.brown@challoners.org]
+samuel.brown@challoners.org
