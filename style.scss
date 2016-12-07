@@ -190,7 +190,6 @@ table, th, td {
 
 .site-info {
   float: left;
-
   @include mobile {
     float: none;
     display: block;
