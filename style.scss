@@ -125,7 +125,7 @@ table, th, td {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $white;
 }
 
 // Specify the color of the selection
@@ -135,7 +135,7 @@ table, th, td {
 }
 ::selection {
   color: $white;
-  background: $light gray;
+  background: $white;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -233,7 +233,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: white;
+    color: $white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
