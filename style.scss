@@ -172,9 +172,9 @@ table, th, td {
 }
 
 .site-avatar {
-  float: above;
-  width: 70px;
-  height: 70px;
+  float: left;
+  width: 100px;
+  height: 100px;
   margin-right: 15px;
 
   @include mobile {
