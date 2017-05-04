@@ -20,7 +20,7 @@ html {
 body {
   background-image: url("https://lh3.googleusercontent.com/s2d3XqiNL0MQiE-KD5o8IW4whSpyZbDNB-Ip8EYvPs2dEtgOnQuILxTD2S7YAFE0wFbT0xJ-mg=s640-h400-e365-rw");
   font-family: "Courier New", Times, serif;
-  color: $white; 
+  color: $black; 
 }
 
 .container {
@@ -33,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Courier New";
-  color: $white;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: $white;
+    color: $black;
   }
 }
 
@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $white;
+  color: $black;
 }
 
 p {
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $white;
+  color: $black;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $white;
+    color: $black;
   }
 }
 
@@ -115,7 +115,7 @@ table {
 }
 
 table, th, td {
-   border: 1px solid white;
+   border: 1px solid black;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -125,17 +125,17 @@ table, th, td {
 
 .date {
   font-style: italic;
-  color: $white;
+  color: $black;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $white;
-  background: $white;
+  color: $black;
+  background: $black;
 }
 ::selection {
-  color: $white;
-  background: $white;
+  color: $black;
+  background: $black;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -164,7 +164,7 @@ table, th, td {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $white;
+  border-bottom: 1px solid $black;
 
   @include mobile {
     text-align: center;
@@ -199,7 +199,7 @@ table, th, td {
 
 .site-name {
   margin: 0;
-  color: $white;
+  color: $black;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -209,7 +209,7 @@ table, th, td {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $white;
+  color: $black;
   font-size: 16px;
 
   @include mobile {
@@ -232,14 +232,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $white;
+    color: $black;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $white;
+      color: $black;
     }
   }
 }
@@ -250,7 +250,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $white;
+  border-bottom: 1px solid $black;
 }
 
 .posts > .post:last-child {
@@ -261,9 +261,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $white;
+    border-left: 2px solid $black;
     padding: 0.1em 1em;
-    color: $white;
+    color: $black;
     font-size: 22px;
     font-style: italic;
   }
@@ -282,7 +282,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $white;
+  background-color: $black;
 }
 
 footer {
