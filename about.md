@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-My hobbies are playing videogames (ps3 and ipad), cycling, sailing and rowing
+My hobbies are playing videogames (ps3 and ipad), cycling, sailing and rowing.
+My favourite movies are STAR WARS, Harry Potter and Percy Jackson
 
 ### More Information
 
