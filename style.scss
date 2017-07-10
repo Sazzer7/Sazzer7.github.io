@@ -19,6 +19,9 @@ html {
 
 body {
   background-image: url("http://cdn.wallpapersafari.com/57/98/JX5lMR.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
   font-family: "Courier New", Times, serif;
   color: $black; 
 }
