@@ -10,7 +10,6 @@ I also love Cars (especially audi's, landrovers and range rovers) , boats and WW
 
 ### More Information
 
-I go swimming on tuesdays, I have parkour lessons on Wednesdays, Sailing lessons on Thursdays and I go to a youth group called Salt on Fridays.
 My favourite lessons are art and games.
 My favourite video games are: Minecraft and Need for Speed Rivals.
 
