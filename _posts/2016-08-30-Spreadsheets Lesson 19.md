@@ -1,7 +1,7 @@
 ---
-title: Spreadsheets Lesson 19
-layout: post
-author: samuel.brown
+title: Spreadsheets Lesson 19 <br>
+layout: post <br>
+author: samuel.brown <br>
 permalink: /untitled-document/
 source-id: 1pec9Kxqncdj8oTCaFkBBdT6wYTecZJWiyeC67jwnZfY
 published: true
