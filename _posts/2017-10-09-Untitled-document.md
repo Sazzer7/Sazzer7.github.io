@@ -47,16 +47,8 @@ published: true
     <td>How do you do it?</td>
   </tr>
   <tr>
-    <td>If you are trying to do this then all you need to do is go onto the spreadsheet. Press file, publish to the web, then you select embed, make sure that entire document is selected, then copy the code in the box. Now you go onto github, select posts, choose the post you want to put it on and type this:
+    <td>If you are trying to do this then all you need to do is go onto the spreadsheet. Press file, publish to the web, then you select embed, make sure that entire document is selected, then copy the code in the box. Now you go onto github, select posts and choose the post you want to put it on. Then at the bottom of the document, type "<br>" twice on 2 separate lines, press return, and type "<hr>". Then you type "<h2>(your own title)</h2>. Finally you press enter, and paste in what you copied earlier. 
 
-<br>
-<br>
-<hr>
 
-<h2> (YOUR TITLE)</h2>
-
-(PASTE WHAT YOU COPIED EARLIER DOWN HERE)</td>
-  </tr>
-</table>
 
 
