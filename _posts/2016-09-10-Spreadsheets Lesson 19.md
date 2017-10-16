@@ -55,7 +55,7 @@ published: true
 
 <h2> My Spreadsheets Work</h2>
 
-<iframe width= '1000' height= '500' frameborder= '0' 
+<iframe width= '700' height= '300' frameborder= '10' 
 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7YkAHcfmo0hH6SLXx9jEm3HkZrq28f2KV37oekoqkpv1Kk-nLg52HYmSW-YkrkhecUgeUEORnNNua/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
