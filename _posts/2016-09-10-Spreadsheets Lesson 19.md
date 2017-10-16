@@ -1,5 +1,5 @@
 ---
-title: Spreadsheets Lesson 19
+title: Spreadsheets Lesson 19 (Includes Spreadsheets Work!)
 layout: post
 author: samuel.brown
 permalink: /untitled-document/
