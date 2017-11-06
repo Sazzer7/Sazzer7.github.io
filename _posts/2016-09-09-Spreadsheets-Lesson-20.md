@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Hand in link to github</td>
+    <td>Hand link to my githubs work into google classroom</td>
   </tr>
   <tr>
     <td> Did I reach my target? 
