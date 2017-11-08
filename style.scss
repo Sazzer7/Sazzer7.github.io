@@ -114,11 +114,32 @@ img {
   max-width: 100%;
 }
 table {
-	width:100%;
+    border-collapse: collapse;
+	 width: 100%
 }
 
 table, th, td {
-   border: 1px solid black;
+   border: 1px solid white;
+	background-color:rgba(0, 2, 4, 0.4);
+
+}
+
+td {
+   vertical-align: middle; 
+   padding: 10px;
+}	
+
+th {
+   color: white;
+   background: #233237;
+   height:50px;
+   vertical-align: middle;
+}
+
+div.vid {
+    width: 560px;
+    height: 340px;
+    margin: 0 auto;
 }
 
 // Fixes images in popup boxes from Google Translate
