@@ -121,8 +121,10 @@ table {
 table, th, td {
    border: 1px solid white;
 	background-color:rgb(242, 242, 242);
-   opacity: 0.5;
+   background-opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
+   text-opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
 
 }
 
