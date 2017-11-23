@@ -44,7 +44,5 @@ published: true
 
 <h2> My Spreadsheets Work</h2>
 
-<iframe width= '710' height= '300' frameborder= '10' 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTe9USYGQ-3dvqxIR1YEGjPlHCHhiP2qHcliV2CobXpoVVUkfnWHpYjDouacuDfbjPuKInGEJYNTVxt/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width= '710' height= '300' frameborder= '10' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTe9USYGQ-3dvqxIR1YEGjPlHCHhiP2qHcliV2CobXpoVVUkfnWHpYjDouacuDfbjPuKInGEJYNTVxt/pubhtml?widget=true&amp;headers=false"></iframe>
 
