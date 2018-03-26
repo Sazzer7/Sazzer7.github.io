@@ -1,15 +1,15 @@
 ---
-title: Python (with Turtle) Lesson 23
+title: Python (with Turtle) Lesson 24
 layout: post
 author: samuel.brown
-permalink: /python-(with-turtle)-lesson-23/
+permalink: /python-(with-turtle)-lesson-24/
 source-id: 19AC3G-YHFea4yyARawbzAoonAVg2adQ-nlryvJdFhvM
 published: true
 ---
 <table>
   <tr>
     <td>Title:</td>
-    <td>Python (with Turtle)  Lesson 23</td>
+    <td>Python (with Turtle)  Lesson 24</td>
     <td>Date:</td>
     <td>26/02/18</td>
   </tr>
